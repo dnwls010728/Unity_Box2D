@@ -1,0 +1,10 @@
+^C:\USERS\WOOJIN CHOI\DOWNLOADS\BOX2D_UNITY_SHIM\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Woojin Choi/Downloads/box2d_unity_shim" "-BC:/Users/Woojin Choi/Downloads/box2d_unity_shim/build" --check-stamp-file "C:/Users/Woojin Choi/Downloads/box2d_unity_shim/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,8 @@
+C:/Users/Woojin Choi/Downloads/box2d_unity_shim/build/CMakeFiles/box2d_unity.dir
+C:/Users/Woojin Choi/Downloads/box2d_unity_shim/build/CMakeFiles/INSTALL.dir
+C:/Users/Woojin Choi/Downloads/box2d_unity_shim/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Woojin Choi/Downloads/box2d_unity_shim/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Woojin Choi/Downloads/box2d_unity_shim/build/box2d_build/CMakeFiles/INSTALL.dir
+C:/Users/Woojin Choi/Downloads/box2d_unity_shim/build/box2d_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Woojin Choi/Downloads/box2d_unity_shim/build/box2d_build/src/CMakeFiles/box2d.dir
+C:/Users/Woojin Choi/Downloads/box2d_unity_shim/build/box2d_build/src/CMakeFiles/INSTALL.dir
